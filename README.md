@@ -11,8 +11,8 @@
 - 📫 How to reach me **Santoshchhn6@gmail.com**
 
 ## React Projects
-* [Clock App](https://santoshchhn6.github.io/Clock-Timer-Stopwatch-Reactjs/)
-* [Notes App](https://santoshchhn6.github.io/Notes-Reactjs/)
+* [Clock,Timer,StopWatch](https://santoshchhn6.github.io/Clock-Timer-Stopwatch-Reactjs/)
+* [Notes](https://santoshchhn6.github.io/Notes-Reactjs/)
 
 
 ## ReactNative Project
