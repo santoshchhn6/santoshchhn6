@@ -22,6 +22,6 @@
 [![weather](https://user-images.githubusercontent.com/102342620/228027286-abe998d8-7c5d-4e2a-8ad9-fe449554e564.png)](https://santoshchhn6.github.io/Weather-App-Reactjs/)
 
 ### ECOMMERCE
-[<img src='https://user-images.githubusercontent.com/102342620/228027347-62746e1a-ee83-4f3b-a356-997e6270aae0.png' width='300'/>](https://github.com/santoshchhn6/Ecommerce-React-Native)
+[<img src='https://user-images.githubusercontent.com/102342620/228027347-62746e1a-ee83-4f3b-a356-997e6270aae0.png' width='300'/>](	https://expo.dev/@santoshchhn6/e-shop)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santoshchhn6&" alt="santoshchhn6" /></p>
