@@ -12,7 +12,7 @@
 
 ## Projects
 
-[![stopwatch](https://user-images.githubusercontent.com/102342620/228027205-ee8ed05c-14c5-4520-9cd6-5b3ff0a57df4.png)(https://santoshchhn6.github.io/Clock-Timer-Stopwatch-Reactjs/)
+[![stopwatch](https://user-images.githubusercontent.com/102342620/228027205-ee8ed05c-14c5-4520-9cd6-5b3ff0a57df4.png)](https://santoshchhn6.github.io/Clock-Timer-Stopwatch-Reactjs/)
 
 [![note](https://user-images.githubusercontent.com/102342620/228027264-e65e5ec6-c76f-4793-be60-06578b393d1c.png)](https://santoshchhn6.github.io/Notes-Reactjs/)
 
