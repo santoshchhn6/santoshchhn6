@@ -1,15 +1,25 @@
-![githubBanner](https://user-images.githubusercontent.com/102342620/217224975-6f46fe4b-c209-4999-9656-8fdeca51bb57.png)
-
 <h1 align="center">Hi 👋, I'm Santosh Chauhan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Linux Administrator | Aspiring DevOps Engineer</h3>
 
+I'm a Linux Administrator with experience in managing Linux servers, virtualization, patch management, storage administration, and automation using Shell scripting. I'm currently expanding my skills in Cloud and DevOps technologies to build scalable and reliable infrastructure.
 
-- 🌱 I’m currently learning **React, Typescript**
+🔧 Skills
+- Linux Administration (RHEL/CentOS)
+- Storage Management (LVM, Filesystems)
+- Package Management (RPM, YUM/DNF)
+- System Monitoring & Troubleshooting
+- Shell Scripting (Bash)
+- Ansible
+- Docker
+- Python
 
-- 💬 Ask me about **React, Javascript, CSS**
+🌱 Currently Learning
+- AWS Cloud
+- Kubernetes
+- Terraform
+- CI/CD
 
-- 📫 How to reach me **Santoshchhn6@gmail.com**
-
+---
 ## Reactjs Projects
 
 ### WEATHER APP
